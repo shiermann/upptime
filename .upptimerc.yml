@@ -4,18 +4,22 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
   - name: BMHME
     url: https://bmhme.at
     icon: https://www.bmhme.at/wp-content/uploads/2019/08/cropped-bmhme_favicon-192x192.png
   - name: Musikschule Donauland
     url: https://musikschule-donauland.at/
-  - name: Test for HEAD
-    method: HEAD
+    icon: https://i1.wp.com/musikschule-donauland.at/wp-content/uploads/2019/06/cropped-MS-Logo-ohne-Schrift.jpg?fit=192%2C192&ssl=1
+  - name: Musikverein Margarethen am Moos
+    url: http://www.mv-margarethen.at/
+  - name: Österreichischer Blasmusikverband
+    url: https://www.blasmusik.at/
+  - name: Google
     url: https://www.google.com
+  - name: Wikipedia
+    url: https://en.wikipedia.org
+  - name: DuckDuckGo
+    url: https://www.duckduckgo.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -28,10 +32,10 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Hier wird die **response time** mit der BMHME Seite und anderen Webseiten von anderen Musikvereinen verglichen.
   navbar:
     - title: Status
-      href: /
+      href: https://shiermann.github.io/upptime
     - title: GitHub
       href: https://github.com/shiermann/upptime
 
