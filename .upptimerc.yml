@@ -10,6 +10,9 @@ sites:
     url: https://en.wikipedia.org
   - name: BMHME
     url: https://bmhme.at
+    icon: https://www.bmhme.at/wp-content/uploads/2019/08/cropped-bmhme_favicon-192x192.png
+  - name: Musikschule Donauland
+    url: https://musikschule-donauland.at/
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
