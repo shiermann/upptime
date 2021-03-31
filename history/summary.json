@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3163,
-    "timeDay": 2266,
-    "timeWeek": 3639,
-    "timeMonth": 2942,
-    "timeYear": 3163,
+    "time": 3153,
+    "timeDay": 2260,
+    "timeWeek": 3659,
+    "timeMonth": 2922,
+    "timeYear": 3153,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 860,
-    "timeDay": 763,
-    "timeWeek": 731,
-    "timeMonth": 828,
-    "timeYear": 860,
+    "time": 859,
+    "timeDay": 806,
+    "timeWeek": 738,
+    "timeMonth": 827,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2021-02-01": 27
     }
@@ -43,20 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/www.mv-margarethen.at",
     "slug": "musikverein-margarethen-am-moos",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
-    "time": 815,
-    "timeDay": 591,
-    "timeWeek": 2599,
-    "timeMonth": 1103,
-    "timeYear": 815,
-    "dailyMinutesDown": {
-      "2021-02-01": 27,
-      "2021-01-10": 52
-    }
+    "uptimeYear": "100.00%",
+    "time": 813,
+    "timeDay": 609,
+    "timeWeek": 2602,
+    "timeMonth": 1087,
+    "timeYear": 813,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Österreichischer Blasmusikverband",
@@ -64,20 +61,17 @@
     "icon": "https://favicons.githubusercontent.com/www.blasmusik.at",
     "slug": "oesterreichischer-blasmusikverband",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
-    "time": 2116,
-    "timeDay": 2193,
-    "timeWeek": 2266,
-    "timeMonth": 2109,
-    "timeYear": 2116,
-    "dailyMinutesDown": {
-      "2021-02-01": 27,
-      "2021-01-10": 52
-    }
+    "uptimeYear": "100.00%",
+    "time": 2122,
+    "timeDay": 2642,
+    "timeWeek": 2159,
+    "timeMonth": 2127,
+    "timeYear": 2122,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
@@ -85,20 +79,17 @@
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "100.00%",
     "time": 80,
-    "timeDay": 70,
-    "timeWeek": 76,
-    "timeMonth": 81,
+    "timeDay": 119,
+    "timeWeek": 85,
+    "timeMonth": 82,
     "timeYear": 80,
-    "dailyMinutesDown": {
-      "2021-02-01": 27,
-      "2021-01-10": 52
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -106,20 +97,17 @@
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 158,
-    "timeDay": 171,
-    "timeWeek": 171,
-    "timeMonth": 164,
-    "timeYear": 158,
-    "dailyMinutesDown": {
-      "2021-02-01": 27,
-      "2021-01-10": 52
-    }
+    "uptimeYear": "100.00%",
+    "time": 160,
+    "timeDay": 268,
+    "timeWeek": 206,
+    "timeMonth": 168,
+    "timeYear": 160,
+    "dailyMinutesDown": {}
   },
   {
     "name": "DuckDuckGo",
@@ -127,19 +115,16 @@
     "icon": "https://favicons.githubusercontent.com/www.duckduckgo.com",
     "slug": "duck-duck-go",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "100.00%",
     "time": 264,
-    "timeDay": 155,
-    "timeWeek": 350,
-    "timeMonth": 306,
+    "timeDay": 251,
+    "timeWeek": 290,
+    "timeMonth": 304,
     "timeYear": 264,
-    "dailyMinutesDown": {
-      "2021-02-01": 27,
-      "2021-01-10": 52
-    }
+    "dailyMinutesDown": {}
   }
 ]
