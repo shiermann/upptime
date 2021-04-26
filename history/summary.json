@@ -4,9 +4,9 @@
     "url": "https://bmhme.at",
     "icon": "https://www.bmhme.at/wp-content/uploads/2019/08/cropped-bmhme_favicon-192x192.png",
     "slug": "bmhme",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 779,
     "timeMonth": 1890,
     "timeYear": 3009,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-26": 0
+    }
   },
   {
     "name": "Musikschule Donauland",
