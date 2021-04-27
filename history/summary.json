@@ -5,19 +5,17 @@
     "icon": "https://www.bmhme.at/wp-content/uploads/2019/08/cropped-bmhme_favicon-192x192.png",
     "slug": "bmhme",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 2984,
-    "timeDay": 538,
-    "timeWeek": 713,
-    "timeMonth": 1804,
-    "timeYear": 2984,
-    "dailyMinutesDown": {
-      "2021-04-26": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2961,
+    "timeDay": 578,
+    "timeWeek": 699,
+    "timeMonth": 1701,
+    "timeYear": 2961,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Musikschule Donauland",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 872,
-    "timeDay": 691,
-    "timeWeek": 789,
-    "timeMonth": 877,
-    "timeYear": 872,
+    "time": 873,
+    "timeDay": 984,
+    "timeWeek": 777,
+    "timeMonth": 892,
+    "timeYear": 873,
     "dailyMinutesDown": {
       "2021-02-01": 27
     }
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 756,
-    "timeDay": 511,
-    "timeWeek": 532,
-    "timeMonth": 586,
-    "timeYear": 756,
+    "time": 754,
+    "timeDay": 539,
+    "timeWeek": 526,
+    "timeMonth": 579,
+    "timeYear": 754,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2077,
-    "timeDay": 2000,
-    "timeWeek": 2259,
-    "timeMonth": 1986,
-    "timeYear": 2077,
+    "time": 2079,
+    "timeDay": 2279,
+    "timeWeek": 2278,
+    "timeMonth": 1997,
+    "timeYear": 2079,
     "dailyMinutesDown": {}
   },
   {
@@ -87,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 80,
-    "timeDay": 54,
-    "timeWeek": 85,
-    "timeMonth": 78,
+    "timeDay": 116,
+    "timeWeek": 88,
+    "timeMonth": 80,
     "timeYear": 80,
     "dailyMinutesDown": {}
   },
@@ -104,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 193,
-    "timeWeek": 136,
-    "timeMonth": 167,
-    "timeYear": 160,
+    "time": 162,
+    "timeDay": 381,
+    "timeWeek": 138,
+    "timeMonth": 172,
+    "timeYear": 162,
     "dailyMinutesDown": {}
   },
   {
@@ -122,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 478,
-    "timeWeek": 399,
-    "timeMonth": 336,
-    "timeYear": 280,
+    "time": 279,
+    "timeDay": 115,
+    "timeWeek": 392,
+    "timeMonth": 304,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   }
 ]
