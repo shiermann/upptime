@@ -4,19 +4,19 @@
     "url": "https://bmhme.at",
     "icon": "https://www.bmhme.at/wp-content/uploads/2019/08/cropped-bmhme_favicon-192x192.png",
     "slug": "bmhme",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2978,
-    "timeDay": 3571,
-    "timeWeek": 1776,
-    "timeMonth": 1991,
-    "timeYear": 2978,
+    "time": 2969,
+    "timeDay": 3193,
+    "timeWeek": 1807,
+    "timeMonth": 1994,
+    "timeYear": 2969,
     "dailyMinutesDown": {
-      "2021-04-28": 0
+      "2021-04-28": 6
     }
   },
   {
