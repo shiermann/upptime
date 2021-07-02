@@ -4,9 +4,9 @@
     "url": "https://bmhme.at",
     "icon": "https://www.bmhme.at/wp-content/uploads/2019/08/cropped-bmhme_favicon-192x192.png",
     "slug": "bmhme",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.93%",
@@ -16,6 +16,7 @@
     "timeMonth": 2682,
     "timeYear": 2765,
     "dailyMinutesDown": {
+      "2021-07-02": 0,
       "2021-06-28": 26,
       "2021-05-13": 98,
       "2021-04-28": 38
