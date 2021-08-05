@@ -28,9 +28,9 @@
     "url": "https://musikschule-donauland.at/",
     "icon": "https://i1.wp.com/musikschule-donauland.at/wp-content/uploads/2019/06/cropped-MS-Logo-ohne-Schrift.jpg?fit=192%2C192&ssl=1",
     "slug": "musikschule-donauland",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -40,6 +40,7 @@
     "timeMonth": 1396,
     "timeYear": 1133,
     "dailyMinutesDown": {
+      "2021-08-05": 0,
       "2021-02-01": 27
     }
   },
