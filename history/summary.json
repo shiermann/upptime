@@ -51,9 +51,9 @@
     "url": "http://www.mv-margarethen.at/",
     "icon": "https://favicons.githubusercontent.com/www.mv-margarethen.at",
     "slug": "musikverein-margarethen-am-moos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -62,7 +62,9 @@
     "timeWeek": 501,
     "timeMonth": 547,
     "timeYear": 648,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-28": 0
+    }
   },
   {
     "name": "Österreichischer Blasmusikverband",
