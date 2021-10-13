@@ -69,9 +69,9 @@
     "url": "https://www.blasmusik.at/",
     "icon": "https://favicons.githubusercontent.com/www.blasmusik.at",
     "slug": "oesterreichischer-blasmusikverband",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
@@ -81,6 +81,7 @@
     "timeMonth": 2318,
     "timeYear": 2115,
     "dailyMinutesDown": {
+      "2021-10-13": 0,
       "2021-10-07": 61,
       "2021-07-06": 32
     }
