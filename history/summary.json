@@ -91,9 +91,9 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -102,7 +102,9 @@
     "timeWeek": 100,
     "timeMonth": 94,
     "timeYear": 89,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-15": 0
+    }
   },
   {
     "name": "Wikipedia",
