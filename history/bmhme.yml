@@ -1,7 +1,7 @@
 url: https://bmhme.at
-status: up
-code: 200
-responseTime: 4485
-lastUpdated: 2021-11-04T23:16:39.501Z
+status: down
+code: 500
+responseTime: 1828
+lastUpdated: 2021-11-05T09:39:36.141Z
 startTime: Sun Jan 10 2021 14:35:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
