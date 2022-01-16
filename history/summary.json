@@ -33,7 +33,7 @@
     "icon": "https://i1.wp.com/musikschule-donauland.at/wp-content/uploads/2019/06/cropped-MS-Logo-ohne-Schrift.jpg?fit=192%2C192&ssl=1",
     "slug": "musikschule-donauland",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -52,9 +52,9 @@
     "url": "http://www.mv-margarethen.at/",
     "icon": "https://favicons.githubusercontent.com/www.mv-margarethen.at",
     "slug": "musikverein-margarethen-am-moos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -63,7 +63,9 @@
     "timeWeek": 648,
     "timeMonth": 620,
     "timeYear": 640,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-16": 0
+    }
   },
   {
     "name": "Österreichischer Blasmusikverband",
