@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 2739,
-    "timeDay": 2522,
-    "timeWeek": 2535,
-    "timeMonth": 2535,
-    "timeYear": 2719,
+    "time": 2737,
+    "timeDay": 2031,
+    "timeWeek": 2560,
+    "timeMonth": 2500,
+    "timeYear": 2715,
     "dailyMinutesDown": {
       "2021-11-28": 16,
       "2021-09-28": 19,
@@ -38,14 +38,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1258,
-    "timeDay": 2168,
-    "timeWeek": 966,
-    "timeMonth": 1206,
-    "timeYear": 1278,
-    "dailyMinutesDown": {
-      "2021-02-01": 27
-    }
+    "time": 1260,
+    "timeDay": 1985,
+    "timeWeek": 1231,
+    "timeMonth": 1240,
+    "timeYear": 1280,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Musikverein Margarethen am Moos",
@@ -58,11 +56,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 639,
-    "timeDay": 639,
-    "timeWeek": 572,
-    "timeMonth": 607,
-    "timeYear": 639,
+    "time": 638,
+    "timeDay": 467,
+    "timeWeek": 574,
+    "timeMonth": 599,
+    "timeYear": 638,
     "dailyMinutesDown": {
       "2022-01-16": 20
     }
@@ -78,11 +76,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2194,
-    "timeDay": 1760,
-    "timeWeek": 2249,
-    "timeMonth": 2501,
-    "timeYear": 2199,
+    "time": 2195,
+    "timeDay": 2532,
+    "timeWeek": 2266,
+    "timeMonth": 2486,
+    "timeYear": 2200,
     "dailyMinutesDown": {
       "2021-10-13": 19,
       "2021-10-07": 61,
@@ -101,8 +99,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 77,
-    "timeWeek": 78,
+    "timeDay": 54,
+    "timeWeek": 77,
     "timeMonth": 85,
     "timeYear": 95,
     "dailyMinutesDown": {}
@@ -119,10 +117,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 241,
-    "timeWeek": 194,
-    "timeMonth": 184,
-    "timeYear": 208,
+    "timeDay": 153,
+    "timeWeek": 193,
+    "timeMonth": 182,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2021-12-03": 19
     }
@@ -138,10 +136,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 172,
-    "timeDay": 61,
-    "timeWeek": 87,
-    "timeMonth": 90,
+    "time": 171,
+    "timeDay": 124,
+    "timeWeek": 93,
+    "timeMonth": 91,
     "timeYear": 165,
     "dailyMinutesDown": {}
   }
