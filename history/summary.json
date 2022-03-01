@@ -60,7 +60,7 @@
     "time": 634,
     "timeDay": 472,
     "timeWeek": 587,
-    "timeMonth": 580,
+    "timeMonth": 578,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2022-01-16": 20
@@ -111,9 +111,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,6 +123,7 @@
     "timeMonth": 174,
     "timeYear": 207,
     "dailyMinutesDown": {
+      "2022-03-01": 0,
       "2021-12-03": 19
     }
   },
