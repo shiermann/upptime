@@ -73,9 +73,9 @@
     "slug": "oesterreichischer-blasmusikverband",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2211,
     "timeDay": 2500,
@@ -83,7 +83,6 @@
     "timeMonth": 2329,
     "timeYear": 2246,
     "dailyMinutesDown": {
-      "2022-04-13": 5,
       "2021-10-13": 19,
       "2021-10-07": 61,
       "2021-07-06": 32
@@ -94,9 +93,9 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +104,9 @@
     "timeWeek": 89,
     "timeMonth": 99,
     "timeYear": 104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "Wikipedia",
