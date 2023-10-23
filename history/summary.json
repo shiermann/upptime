@@ -81,7 +81,7 @@
     "timeDay": 961,
     "timeWeek": 1930,
     "timeMonth": 1382,
-    "timeYear": 1443,
+    "timeYear": 1442,
     "dailyMinutesDown": {
       "2023-10-18": 32,
       "2023-05-20": 18,
@@ -106,7 +106,7 @@
     "uptimeYear": "100.00%",
     "time": 114,
     "timeDay": 68,
-    "timeWeek": 154,
+    "timeWeek": 116,
     "timeMonth": 130,
     "timeYear": 114,
     "dailyMinutesDown": {}
@@ -137,11 +137,11 @@
     "url": "https://www.duckduckgo.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.duckduckgo.com.ico",
     "slug": "duck-duck-go",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
     "timeDay": 240,
@@ -149,7 +149,7 @@
     "timeMonth": 200,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2023-10-23": 11
+      "2023-10-23": 0
     }
   }
 ]
