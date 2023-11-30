@@ -6,9 +6,9 @@
     "slug": "bmhme",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "96.71%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 2765,
     "timeDay": 9847,
@@ -16,7 +16,7 @@
     "timeMonth": 2749,
     "timeYear": 2813,
     "dailyMinutesDown": {
-      "2023-11-29": 47,
+      "2023-11-29": 36,
       "2023-08-23": 16,
       "2023-08-04": 16,
       "2023-07-01": 20,
@@ -50,9 +50,9 @@
     "slug": "musikverein-margarethen-am-moos",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 776,
     "timeDay": 8958,
@@ -60,7 +60,7 @@
     "timeMonth": 1353,
     "timeYear": 831,
     "dailyMinutesDown": {
-      "2023-11-29": 22,
+      "2023-11-29": 17,
       "2023-09-04": 25,
       "2023-08-10": 16
     }
