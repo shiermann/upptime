@@ -29,19 +29,19 @@
     "url": "https://musikschule-donauland.at/",
     "icon": "https://i1.wp.com/musikschule-donauland.at/wp-content/uploads/2019/06/cropped-MS-Logo-ohne-Schrift.jpg?fit=192%2C192&ssl=1",
     "slug": "musikschule-donauland",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 880,
-    "timeDay": 675,
-    "timeWeek": 796,
-    "timeMonth": 736,
+    "time": 878,
+    "timeDay": 721,
+    "timeWeek": 798,
+    "timeMonth": 738,
     "timeYear": 794,
     "dailyMinutesDown": {
-      "2024-01-23": 0
+      "2024-01-23": 16
     }
   },
   {
