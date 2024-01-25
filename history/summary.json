@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2746,
-    "timeDay": 2587,
-    "timeWeek": 2121,
-    "timeMonth": 2439,
+    "timeDay": 1861,
+    "timeWeek": 2109,
+    "timeMonth": 2437,
     "timeYear": 2734,
     "dailyMinutesDown": {
       "2023-11-29": 36,
@@ -31,13 +31,13 @@
     "slug": "musikschule-donauland",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 880,
-    "timeDay": 761,
-    "timeWeek": 795,
+    "timeDay": 128,
+    "timeWeek": 641,
     "timeMonth": 746,
     "timeYear": 795,
     "dailyMinutesDown": {
@@ -56,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 778,
-    "timeDay": 681,
-    "timeWeek": 518,
-    "timeMonth": 593,
+    "timeDay": 464,
+    "timeWeek": 516,
+    "timeMonth": 581,
     "timeYear": 828,
     "dailyMinutesDown": {
       "2023-11-29": 17,
@@ -77,19 +77,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1600,
-    "timeDay": 1707,
-    "timeWeek": 1102,
+    "time": 1598,
+    "timeDay": 950,
+    "timeWeek": 1095,
     "timeMonth": 1329,
-    "timeYear": 1242,
+    "timeYear": 1241,
     "dailyMinutesDown": {
       "2023-10-18": 32,
       "2023-05-20": 18,
       "2023-05-18": 18,
       "2023-05-07": 18,
       "2023-04-06": 16,
-      "2023-01-30": 16,
-      "2023-01-25": 38
+      "2023-01-30": 16
     }
   },
   {
@@ -104,10 +103,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 82,
-    "timeWeek": 124,
-    "timeMonth": 110,
-    "timeYear": 115,
+    "timeDay": 64,
+    "timeWeek": 121,
+    "timeMonth": 108,
+    "timeYear": 114,
     "dailyMinutesDown": {}
   },
   {
@@ -121,14 +120,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 217,
-    "timeDay": 116,
-    "timeWeek": 196,
-    "timeMonth": 191,
+    "time": 216,
+    "timeDay": 181,
+    "timeWeek": 197,
+    "timeMonth": 186,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2023-09-12": 25,
-      "2023-01-25": 24
+      "2023-09-12": 25
     }
   },
   {
@@ -143,9 +141,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 230,
-    "timeWeek": 145,
-    "timeMonth": 177,
+    "timeDay": 199,
+    "timeWeek": 157,
+    "timeMonth": 181,
     "timeYear": 202,
     "dailyMinutesDown": {}
   }
