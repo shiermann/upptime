@@ -1,7 +1,7 @@
 url: https://www.blasmusik.at/
-status: up
-code: 200
-responseTime: 966
-lastUpdated: 2024-02-28T09:31:22.495Z
+status: down
+code: 500
+responseTime: 902
+lastUpdated: 2024-02-28T19:35:06.607Z
 startTime: 2021-01-10T16:05:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
