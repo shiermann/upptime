@@ -49,9 +49,9 @@
     "url": "http://www.mv-margarethen.at/",
     "icon": "https://icons.duckduckgo.com/ip3/www.mv-margarethen.at.ico",
     "slug": "musikverein-margarethen-am-moos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "87.21%",
+    "uptimeDay": "87.20%",
     "uptimeWeek": "93.57%",
     "uptimeMonth": "98.42%",
     "uptimeYear": "99.86%",
@@ -61,6 +61,7 @@
     "timeMonth": 1516,
     "timeYear": 950,
     "dailyMinutesDown": {
+      "2024-03-28": 0,
       "2024-03-27": 184,
       "2024-03-26": 244,
       "2024-03-25": 202,
@@ -85,7 +86,7 @@
     "time": 1401,
     "timeDay": 977,
     "timeWeek": 1156,
-    "timeMonth": 1065,
+    "timeMonth": 1055,
     "timeYear": 1209,
     "dailyMinutesDown": {
       "2024-03-01": 17,
