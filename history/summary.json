@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 2620,
-    "timeDay": 2110,
-    "timeWeek": 2274,
-    "timeMonth": 2414,
-    "timeYear": 2455,
+    "timeDay": 2700,
+    "timeWeek": 2355,
+    "timeMonth": 2436,
+    "timeYear": 2456,
     "dailyMinutesDown": {
       "2024-07-02": 72,
       "2024-06-08": 16,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 592,
-    "timeDay": 153,
-    "timeWeek": 165,
+    "time": 590,
+    "timeDay": 152,
+    "timeWeek": 169,
     "timeMonth": 177,
-    "timeYear": 509,
+    "timeYear": 507,
     "dailyMinutesDown": {
       "2024-01-23": 16
     }
@@ -54,10 +54,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 912,
-    "timeDay": 538,
-    "timeWeek": 599,
-    "timeMonth": 731,
-    "timeYear": 932,
+    "timeDay": 784,
+    "timeWeek": 616,
+    "timeMonth": 736,
+    "timeYear": 931,
     "dailyMinutesDown": {
       "2024-07-02": 77,
       "2024-04-16": 61,
@@ -68,8 +68,7 @@
       "2024-03-24": 18,
       "2024-03-19": 44,
       "2023-11-29": 17,
-      "2023-09-04": 25,
-      "2023-08-10": 16
+      "2023-09-04": 25
     }
   },
   {
@@ -79,17 +78,16 @@
     "slug": "oesterreichischer-blasmusikverband",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 1243,
-    "timeDay": 1032,
-    "timeWeek": 1225,
-    "timeMonth": 1497,
-    "timeYear": 1267,
+    "time": 1244,
+    "timeDay": 1226,
+    "timeWeek": 1300,
+    "timeMonth": 1510,
+    "timeYear": 1269,
     "dailyMinutesDown": {
-      "2024-08-08": 12,
       "2024-07-11": 22,
       "2024-04-22": 17,
       "2024-03-01": 17,
@@ -109,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 112,
-    "timeDay": 91,
-    "timeWeek": 102,
-    "timeMonth": 107,
+    "timeDay": 105,
+    "timeWeek": 103,
+    "timeMonth": 108,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2024-05-01": 38
@@ -129,10 +127,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 329,
-    "timeWeek": 280,
-    "timeMonth": 275,
-    "timeYear": 216,
+    "timeDay": 139,
+    "timeWeek": 245,
+    "timeMonth": 273,
+    "timeYear": 215,
     "dailyMinutesDown": {
       "2023-09-12": 25
     }
@@ -149,10 +147,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 221,
-    "timeWeek": 207,
-    "timeMonth": 220,
-    "timeYear": 198,
+    "timeDay": 441,
+    "timeWeek": 240,
+    "timeMonth": 230,
+    "timeYear": 199,
     "dailyMinutesDown": {
       "2024-06-14": 25
     }
