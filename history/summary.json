@@ -34,18 +34,20 @@
     "url": "https://musikschule-donauland.at/",
     "icon": "https://i1.wp.com/musikschule-donauland.at/wp-content/uploads/2019/06/cropped-MS-Logo-ohne-Schrift.jpg?fit=192%2C192&ssl=1",
     "slug": "musikschule-donauland",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 268,
+    "time": 267,
     "timeDay": 201,
     "timeWeek": 200,
     "timeMonth": 225,
     "timeYear": 197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-29": 0
+    }
   },
   {
     "name": "Musikverein Margarethen am Moos",
