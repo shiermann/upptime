@@ -14,7 +14,7 @@
     "timeDay": 2375,
     "timeWeek": 3177,
     "timeMonth": 3093,
-    "timeYear": 3013,
+    "timeYear": 3012,
     "dailyMinutesDown": {
       "2025-07-05": 20,
       "2025-06-04": 21,
@@ -44,7 +44,7 @@
     "timeDay": 133,
     "timeWeek": 344,
     "timeMonth": 415,
-    "timeYear": 224,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   },
   {
@@ -73,18 +73,19 @@
     "url": "https://www.blasmusik.at/",
     "icon": "https://icons.duckduckgo.com/ip3/www.blasmusik.at.ico",
     "slug": "oesterreichischer-blasmusikverband",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.88%",
     "time": 1351,
-    "timeDay": 1090,
-    "timeWeek": 1410,
-    "timeMonth": 1504,
-    "timeYear": 1374,
+    "timeDay": 891,
+    "timeWeek": 1321,
+    "timeMonth": 1479,
+    "timeYear": 1373,
     "dailyMinutesDown": {
+      "2025-07-19": 0,
       "2025-06-26": 48,
       "2025-06-10": 27,
       "2025-05-04": 120,
@@ -155,7 +156,7 @@
     "timeDay": 371,
     "timeWeek": 316,
     "timeMonth": 312,
-    "timeYear": 271,
+    "timeYear": 272,
     "dailyMinutesDown": {}
   }
 ]
