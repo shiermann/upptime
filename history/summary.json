@@ -153,19 +153,19 @@
     "url": "https://www.duckduckgo.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.duckduckgo.com.ico",
     "slug": "duck-duck-go",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 262,
-    "timeDay": 216,
-    "timeWeek": 288,
-    "timeMonth": 269,
+    "timeDay": 194,
+    "timeWeek": 274,
+    "timeMonth": 266,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-09-17": 0
+      "2025-09-17": 21
     }
   }
 ]
