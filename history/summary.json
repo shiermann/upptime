@@ -156,17 +156,16 @@
     "slug": "duck-duck-go",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 263,
     "timeDay": 258,
     "timeWeek": 257,
     "timeMonth": 259,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-09-19": 5,
       "2025-09-17": 21
     }
   }
